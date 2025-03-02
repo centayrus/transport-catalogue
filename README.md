@@ -31,7 +31,7 @@ Transport-catalogue — это программа для обработки тр
 
 ### 1. Клонирование Github репозитория
 ```
-git clone https://github.com/nextcloud/desktop.git
+git clone git@github.com:centayrus/transport-catalogue.git
 ```
 ### 2. Создание каталога
 ``` 
