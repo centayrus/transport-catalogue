@@ -41,7 +41,7 @@ mkdir <build directory>
 ### 3. Компиляция:
 ```
 cd <build directory>
-cmake -S <cloned desktop repo> -B build -DCMAKE_BUILD_TYPE=Debug
+cmake -S <cloned desktop repo> -DCMAKE_BUILD_TYPE=Debug
 ```
 ### 4. Сборка:
 ```
